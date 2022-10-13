@@ -504,6 +504,21 @@ textarea {
     width: 100%;
     align-content: center;
   }
+
+  .form-wrapper-cl {
+    display: inline-block;
+    width: 49%;
+
+  }
+
+  .form-wrapper h1 {
+    margin-bottom: 12%;
+  }
+
+  .contact-img {
+    padding: 0 10%;
+  }
+
 }
 
 
