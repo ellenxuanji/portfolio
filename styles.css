@@ -475,19 +475,29 @@ textarea {
 
   #column-work1 {
     padding: 10px;
-    margin: auto;
+    display: flex;
+    justify-content: center;
   }
 
   .work1 {
-    width: 450px;
+    width: 500px;
+    height: 550px;
   }
 
   .work1-img {
     width: 450px;
+    height: 450px;
+    padding-left: 30px;
   }
 
   #column-work2 {
-    display: inline;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .work2 {
+    width: calc(100%/2 - 100px);
   }
 
   .form-wrapper {
